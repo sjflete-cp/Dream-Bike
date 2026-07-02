@@ -1,0 +1,55 @@
+🚲 Dream Bike
+
+Build it before you buy it.
+
+Dream Bike is a next-generation e-bike builder inspired by PCPartPicker. It allows riders to build, customize, compare, and share their dream e-bike before purchasing any parts.
+
+Vision
+
+Dream Bike will become the best platform for planning custom e-bike builds.
+
+Users will be able to:
+
+* Build bikes in 3D
+* Swap every compatible part
+* Check compatibility instantly
+* Estimate speed, range, and weight
+* Compare builds
+* Save builds to their Garage
+* Share builds with the community
+* Request new bike models
+* Track build costs
+* Plan future upgrades
+
+Supported Bikes (Version 1)
+
+Razor
+
+* MX350
+* MX400
+* MX500
+* MX650
+* SX500
+* RSF650
+
+Future support will include additional brands and models as the compatibility database grows.
+
+Core Features
+
+* Interactive 3D bike builder
+* Parts database
+* Compatibility engine
+* Performance calculator
+* Community builds
+* Garage
+* Marketplace
+* Request a Bike
+* Beginner and Expert modes
+* Build comparison
+* Dream Score
+
+Project Goal
+
+Build the world’s best e-bike customization platform.
+
+Every decision should make Dream Bike easier to use, more accurate, and more helpful for riders of every experience level.
